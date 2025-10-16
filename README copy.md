@@ -46,4 +46,9 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## VIDEO LINK 
+https://www.loom.com/share/24c0b1781c0348e98db426922520a44b
+
+
+## DOCUMENTATION LINK
+https://docs.google.com/document/d/1_FUJnEvaVADtqp1SuDROZ4L9lPmFpzytW3bCPOA_A04/edit?tab=t.0#heading=h.mqjo8ylhory5
