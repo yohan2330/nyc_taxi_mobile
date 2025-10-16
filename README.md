@@ -1,1 +1,0 @@
-# nyc_taxi_mobile
